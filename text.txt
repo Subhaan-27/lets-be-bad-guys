@@ -1,0 +1,507 @@
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/badguys/static/js/vendor/jquery.js:8488:          // Passing null username, generates a login popup on Opera (#2865)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/badguys/templates/vulnerable/access_control/non_admin.html:12:    <p>It is most certainly not allowing you any 'admin' level access. What if the admin login just used
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/badguys/templates/vulnerable/broken_auth/index.html:21:    <li>transmitting user login credentials insecurely</li>
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/badguys/templates/vulnerable/exposure/index.html:15:It can be payment information or login credentials that aren't encrypted, or
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/badguys/templates/vulnerable/exposure/index.html:23:data is being transmitted or received.  This could be a login form that doesn't
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/badguys/templates/vulnerable/redirects/redirects.html:11:    other URL based on some kind of query parameter... It might be a login page
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/badguys/urls.py:70:    url(r'^data-exposure/login$', exercises.exposure_login,
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/badguys/urls.py:71:        name='exposure-login'),
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/badguys/vulnerable/views.py:149:def exposure_login(request):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/for_loop.sh:11:    "Login")
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/conf/global_settings.py:515:LOGIN_URL = '/accounts/login/'
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/conf/global_settings.py:519:LOGIN_REDIRECT_URL = '/accounts/profile/'
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/conf/global_settings.py:526:# upon login
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/conf/locale/lt/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/conf/locale/lt/LC_MESSAGES/django.po:457:msgstr "Loginė reikšmė (Tiesa arba Netiesa)"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/conf/locale/lt/LC_MESSAGES/django.po:549:msgstr "Loginė reikšmė (Tiesa, Netiesa arba Nieko)"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/conf/__pycache__/global_settings.cpython-37.pyc matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/forms.py:13:        'invalid_login': _("Please enter the correct %(username)s and password "
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/forms.py:19:    def confirm_login_allowed(self, user):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/forms.py:22:                self.error_messages['invalid_login'],
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/forms.py:23:                code='invalid_login',
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/af/LC_MESSAGES/django.po:468:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/am/LC_MESSAGES/django.po:452:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ar/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ar/LC_MESSAGES/django.po:488:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ast/LC_MESSAGES/django.po:457:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/az/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/az/LC_MESSAGES/django.po:490:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/be/LC_MESSAGES/django.po:482:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/bg/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/bg/LC_MESSAGES/django.po:492:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/bn/LC_MESSAGES/django.po:467:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/br/LC_MESSAGES/django.po:452:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/bs/LC_MESSAGES/django.po:471:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ca/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ca/LC_MESSAGES/django.po:492:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/cs/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/cs/LC_MESSAGES/django.po:495:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/cy/LC_MESSAGES/django.po:491:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/da/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/da/LC_MESSAGES/django.po:490:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/de/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/de/LC_MESSAGES/django.po:498:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/el/LC_MESSAGES/django.po:501:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/en/LC_MESSAGES/django.po:307:#: contrib/admin/sites.py:393 contrib/admin/templates/admin/login.html.py:61
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/en/LC_MESSAGES/django.po:407:#: contrib/admin/templates/admin/login.html:21
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/en/LC_MESSAGES/django.po:415:#: contrib/admin/templates/admin/login.html:21
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/en/LC_MESSAGES/django.po:616:#: contrib/admin/templates/admin/login.html:37
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/en/LC_MESSAGES/django.po:620:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/en/LC_MESSAGES/django.po:623:#: contrib/admin/templates/admin/login.html:57
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/en_AU/LC_MESSAGES/django.po:464:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/en_GB/LC_MESSAGES/django.po:476:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/django.po:492:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/es/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/es/LC_MESSAGES/django.po:505:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/es_AR/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/es_AR/LC_MESSAGES/django.po:495:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/es_CO/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/es_CO/LC_MESSAGES/django.po:502:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/es_MX/LC_MESSAGES/django.po:493:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/es_VE/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/es_VE/LC_MESSAGES/django.po:492:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/et/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/et/LC_MESSAGES/django.po:486:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/eu/LC_MESSAGES/django.po:488:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/fa/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/fa/LC_MESSAGES/django.po:489:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/fi/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/fi/LC_MESSAGES/django.po:484:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/fr/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/fr/LC_MESSAGES/django.po:496:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ga/LC_MESSAGES/django.po:499:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/gd/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/gd/LC_MESSAGES/django.po:502:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/gl/LC_MESSAGES/django.po:491:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/he/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/he/LC_MESSAGES/django.po:477:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/hi/LC_MESSAGES/django.po:482:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/hr/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/hr/LC_MESSAGES/django.po:494:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/hu/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/hu/LC_MESSAGES/django.po:492:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ia/LC_MESSAGES/django.po:477:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/id/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/id/LC_MESSAGES/django.po:492:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/io/LC_MESSAGES/django.po:484:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/is/LC_MESSAGES/django.po:479:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/it/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/it/LC_MESSAGES/django.po:498:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ja/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ja/LC_MESSAGES/django.po:483:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ka/LC_MESSAGES/django.po:486:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/kk/LC_MESSAGES/django.po:478:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/km/LC_MESSAGES/django.po:459:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/kn/LC_MESSAGES/django.po:460:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ko/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ko/LC_MESSAGES/django.po:482:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/lb/LC_MESSAGES/django.po:453:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/lt/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/lt/LC_MESSAGES/django.po:496:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/lv/LC_MESSAGES/django.po:465:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/mk/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/mk/LC_MESSAGES/django.po:493:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ml/LC_MESSAGES/django.po:478:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/django.po:492:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/my/LC_MESSAGES/django.po:451:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/nb/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/nb/LC_MESSAGES/django.po:489:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ne/LC_MESSAGES/django.po:466:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/nl/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/nl/LC_MESSAGES/django.po:495:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/nn/LC_MESSAGES/django.po:477:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/os/LC_MESSAGES/django.po:476:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/pa/LC_MESSAGES/django.po:453:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/django.po:501:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/pt/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/pt/LC_MESSAGES/django.po:496:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/pt_BR/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/pt_BR/LC_MESSAGES/django.po:499:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/pt_BR/LC_MESSAGES/django.po:502:"esta página. Você gostaria de realizar login com uma conta diferente?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ro/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ro/LC_MESSAGES/django.po:497:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ru/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ru/LC_MESSAGES/django.po:496:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/sk/LC_MESSAGES/django.po:491:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/sl/LC_MESSAGES/django.po:491:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/sq/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/sq/LC_MESSAGES/django.po:491:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/django.po:479:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/sr_Latn/LC_MESSAGES/django.po:479:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/sv/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/sv/LC_MESSAGES/django.po:493:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/sw/LC_MESSAGES/django.po:488:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ta/LC_MESSAGES/django.po:462:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/te/LC_MESSAGES/django.po:457:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/th/LC_MESSAGES/django.po:470:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/tr/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/tr/LC_MESSAGES/django.po:498:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/tt/LC_MESSAGES/django.po:473:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/uk/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/uk/LC_MESSAGES/django.po:499:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/ur/LC_MESSAGES/django.po:474:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/vi/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/vi/LC_MESSAGES/django.po:490:"page. Would you like to login to a different account?"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/django.po:480:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/locale/zh_Hant/LC_MESSAGES/django.po:472:"page. Would you like to login to a different account?"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/sites.py:53:    login_form = None
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/sites.py:56:    login_template = None
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/sites.py:239:                from django.contrib.auth.views import redirect_to_login
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/sites.py:240:                return redirect_to_login(
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/sites.py:242:                    reverse('admin:login', current_app=self.name)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/sites.py:272:            url(r'^login/$', self.login, name='login'),
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/sites.py:384:    def login(self, request, extra_context=None):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/sites.py:386:        Displays the login form for the given HttpRequest.
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/sites.py:393:        from django.contrib.auth.views import login
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/sites.py:409:            'authentication_form': self.login_form or AdminAuthenticationForm,
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/sites.py:410:            'template_name': self.login_template or 'admin/login.html',
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/sites.py:413:        return login(request, **defaults)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:1:/* LOGIN FORM */
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:3:body.login {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:7:.login #header {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:12:.login #header h1 {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:16:.login #header h1 a {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:20:.login #content {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:24:.login #container {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:34:.login #content-main {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:38:.login .form-row {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:45:.login .form-row label {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:53:.login .form-row #id_username, .login .form-row #id_password {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:62:.login span.help {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:67:.login .submit-row {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/login.css:76:.login .password-reset-link {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/rtl.css:5:/* LOGIN */
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/rtl.css:7:.login .form-row {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/rtl.css:11:.login .form-row label {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/static/admin/css/rtl.css:18:.login .submit-row {
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/templates/admin/login.html:4:{% block extrastyle %}{{ block.super }}<link rel="stylesheet" type="text/css" href="{% static "admin/css/login.css" %}" />
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/templates/admin/login.html:8:{% block bodyclass %}{{ block.super }} login{% endblock %}
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/templates/admin/login.html:39:    access this page. Would you like to login to a different account?
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/templates/admin/login.html:44:<form action="{{ app_path }}" method="post" id="login-form">{% csrf_token %}
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/templates/registration/password_reset_complete.html:18:<p><a href="{{ login_url }}">{% trans 'Log in' %}</a></p>
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/tests.py:111:    def admin_login(self, username, password, login_url='/admin/'):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/tests.py:115:        self.selenium.get('%s%s' % (self.live_server_url, login_url))
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/tests.py:120:        login_text = _('Log in')
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/tests.py:122:            '//input[@value="%s"]' % login_text).click()
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/views/decorators.py:6:                          login_url='admin:login'):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/views/decorators.py:9:    member, redirecting to the login page if necessary.
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/views/decorators.py:13:        login_url=login_url,
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/views/__pycache__/decorators.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/__pycache__/forms.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/__pycache__/sites.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admin/__pycache__/tests.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admindocs/locale/lt/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/admindocs/locale/lt/LC_MESSAGES/django.po:251:msgstr "Loginė reikšmė (True arba False)"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/admin.py:52:        (_('Important dates'), {'fields': ('last_login', 'date_joined')}),
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/base_user.py:51:    last_login = models.DateTimeField(_('last login'), blank=True, null=True)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:12:def user_passes_test(test_func, login_url=None, redirect_field_name=REDIRECT_FIELD_NAME):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:25:            resolved_login_url = resolve_url(login_url or settings.LOGIN_URL)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:26:            # If the login url is the same scheme and net location then just
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:28:            login_scheme, login_netloc = urlparse(resolved_login_url)[:2]
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:30:            if ((not login_scheme or login_scheme == current_scheme) and
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:31:                    (not login_netloc or login_netloc == current_netloc)):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:33:            from django.contrib.auth.views import redirect_to_login
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:34:            return redirect_to_login(
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:35:                path, resolved_login_url, redirect_field_name)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:40:def login_required(function=None, redirect_field_name=REDIRECT_FIELD_NAME, login_url=None):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:47:        login_url=login_url,
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:55:def permission_required(perm, login_url=None, raise_exception=False):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:73:        # As the last resort, show the login form
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/decorators.py:75:    return user_passes_test(check_perms, login_url=login_url)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/forms.py:129:    username/password logins.
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/forms.py:135:        'invalid_login': _("Please enter a correct %(username)s and password. "
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/forms.py:164:                    self.error_messages['invalid_login'],
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/forms.py:165:                    code='invalid_login',
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/forms.py:169:                self.confirm_login_allowed(self.user_cache)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/forms.py:173:    def confirm_login_allowed(self, user):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/forms.py:177:        allow login by active users, and reject login by inactive users.
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/hashers.py:73:    which disallows logins. Additional random string reduces chances
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/af/LC_MESSAGES/django.po:45:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ar/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ar/LC_MESSAGES/django.po:50:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ast/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ast/LC_MESSAGES/django.po:46:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/az/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/az/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/be/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/be/LC_MESSAGES/django.po:48:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/bg/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/bg/LC_MESSAGES/django.po:52:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/bn/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/bn/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/br/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/br/LC_MESSAGES/django.po:45:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/bs/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/bs/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ca/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ca/LC_MESSAGES/django.po:49:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/cs/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/cs/LC_MESSAGES/django.po:49:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/cy/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/cy/LC_MESSAGES/django.po:48:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/da/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/da/LC_MESSAGES/django.po:49:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/de/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/de/LC_MESSAGES/django.po:49:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/el/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/el/LC_MESSAGES/django.po:51:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/en/LC_MESSAGES/django.po:51:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/en_AU/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/en_AU/LC_MESSAGES/django.po:46:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/en_AU/LC_MESSAGES/django.po:47:msgstr "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/en_GB/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/en_GB/LC_MESSAGES/django.po:47:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/en_GB/LC_MESSAGES/django.po:48:msgstr "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/eo/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/eo/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/es/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/es/LC_MESSAGES/django.po:54:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/es_AR/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/es_AR/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/es_CO/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/es_CO/LC_MESSAGES/django.po:53:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/es_MX/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/es_MX/LC_MESSAGES/django.po:46:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/es_VE/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/es_VE/LC_MESSAGES/django.po:46:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/et/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/et/LC_MESSAGES/django.po:50:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/eu/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/eu/LC_MESSAGES/django.po:48:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/fa/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/fa/LC_MESSAGES/django.po:50:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/fi/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/fi/LC_MESSAGES/django.po:49:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/fr/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/fr/LC_MESSAGES/django.po:48:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/fy/LC_MESSAGES/django.po:132:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ga/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ga/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/gd/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/gd/LC_MESSAGES/django.po:48:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/gl/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/gl/LC_MESSAGES/django.po:49:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/he/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/he/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/hi/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/hi/LC_MESSAGES/django.po:48:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/hr/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/hr/LC_MESSAGES/django.po:53:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/hu/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/hu/LC_MESSAGES/django.po:49:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ia/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ia/LC_MESSAGES/django.po:46:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/id/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/id/LC_MESSAGES/django.po:50:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/io/LC_MESSAGES/django.po:132:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/is/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/is/LC_MESSAGES/django.po:48:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/it/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/it/LC_MESSAGES/django.po:52:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ja/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ja/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ka/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ka/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/kk/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/kk/LC_MESSAGES/django.po:46:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/km/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/km/LC_MESSAGES/django.po:45:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/kn/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/kn/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ko/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ko/LC_MESSAGES/django.po:50:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/lb/LC_MESSAGES/django.po:132:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/lt/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/lt/LC_MESSAGES/django.po:52:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/lv/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/lv/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/mk/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/mk/LC_MESSAGES/django.po:50:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ml/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ml/LC_MESSAGES/django.po:48:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/mn/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/mn/LC_MESSAGES/django.po:53:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/mr/LC_MESSAGES/django.po:132:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/my/LC_MESSAGES/django.po:46:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/nb/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/nb/LC_MESSAGES/django.po:50:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ne/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ne/LC_MESSAGES/django.po:45:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/nl/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/nl/LC_MESSAGES/django.po:54:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/nn/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/nn/LC_MESSAGES/django.po:46:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/os/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/os/LC_MESSAGES/django.po:46:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/pa/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/pa/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/pl/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/pl/LC_MESSAGES/django.po:55:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/pt/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/pt/LC_MESSAGES/django.po:49:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/pt_BR/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/pt_BR/LC_MESSAGES/django.po:57:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/pt_BR/LC_MESSAGES/django.po:58:msgstr "último login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ro/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ro/LC_MESSAGES/django.po:51:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ru/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ru/LC_MESSAGES/django.po:49:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sk/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sk/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sl/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sl/LC_MESSAGES/django.po:50:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sq/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sq/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sr/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sr/LC_MESSAGES/django.po:48:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sr_Latn/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sr_Latn/LC_MESSAGES/django.po:48:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sv/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sv/LC_MESSAGES/django.po:53:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sw/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/sw/LC_MESSAGES/django.po:46:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ta/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ta/LC_MESSAGES/django.po:45:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/te/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/te/LC_MESSAGES/django.po:47:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/th/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/th/LC_MESSAGES/django.po:46:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/tr/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/tr/LC_MESSAGES/django.po:55:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/tt/LC_MESSAGES/django.po:45:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/udm/LC_MESSAGES/django.po:132:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/uk/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/uk/LC_MESSAGES/django.po:55:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/ur/LC_MESSAGES/django.po:44:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/vi/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/vi/LC_MESSAGES/django.po:50:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/zh_Hans/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/zh_Hans/LC_MESSAGES/django.po:53:msgid "last login"
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/zh_Hant/LC_MESSAGES/django.mo matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/locale/zh_Hant/LC_MESSAGES/django.po:51:msgid "last login"
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/management/commands/createsuperuser.py:35:            help='Specifies the login for the superuser.')
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/management/commands/__pycache__/createsuperuser.cpython-37.pyc matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/middleware.py:94:            auth.login(request, user)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/migrations/0001_initial.py:60:                ('last_login', models.DateTimeField(default=timezone.now, verbose_name='last login')),
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/migrations/0005_alter_user_last_login_null.py:16:            name='last_login',
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/migrations/0005_alter_user_last_login_null.py:17:            field=models.DateTimeField(null=True, verbose_name='last login', blank=True),
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/migrations/0006_require_contenttypes_0002.py:10:        ('auth', '0005_alter_user_last_login_null'),
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/migrations/__pycache__/0001_initial.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/migrations/__pycache__/0005_alter_user_last_login_null.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/migrations/__pycache__/0006_require_contenttypes_0002.cpython-37.pyc matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/mixins.py:3:from django.contrib.auth.views import redirect_to_login
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/mixins.py:14:    login_url = None
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/mixins.py:19:    def get_login_url(self):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/mixins.py:21:        Override this method to override the login_url attribute.
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/mixins.py:23:        login_url = self.login_url or settings.LOGIN_URL
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/mixins.py:24:        if not login_url:
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/mixins.py:26:                '{0} is missing the login_url attribute. Define {0}.login_url, settings.LOGIN_URL, or override '
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/mixins.py:27:                '{0}.get_login_url().'.format(self.__class__.__name__)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/mixins.py:29:        return force_text(login_url)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/mixins.py:46:        return redirect_to_login(self.request.get_full_path(), self.get_login_url(), self.get_redirect_field_name())
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/mixins.py:49:class LoginRequiredMixin(AccessMixin):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/mixins.py:56:        return super(LoginRequiredMixin, self).dispatch(request, *args, **kwargs)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/models.py:17:def update_last_login(sender, user, **kwargs):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/models.py:19:    A signal receiver which updates the last_login date for
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/models.py:22:    user.last_login = timezone.now()
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/models.py:23:    user.save(update_fields=['last_login'])
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/models.py:24:user_logged_in.connect(update_last_login)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/signals.py:4:user_login_failed = Signal(providing_args=['credentials'])
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/tokens.py:56:        # last_login will also change), we produce a hash that will be
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/tokens.py:68:        login_timestamp = '' if user.last_login is None else user.last_login.replace(microsecond=0, tzinfo=None)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/tokens.py:71:            six.text_type(login_timestamp) + six.text_type(timestamp)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/urls.py:10:    url(r'^login/$', views.login, name='login'),
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:5:# Avoid shadowing the login() and logout() views below.
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:7:    REDIRECT_FIELD_NAME, get_user_model, login as auth_login,
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:10:from django.contrib.auth.decorators import login_required
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:57:def login(request, template_name='registration/login.html',
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:62:    Displays the login form and handles the login action.
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:73:                redirect_to = resolve_url(settings.LOGIN_REDIRECT_URL)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:76:            auth_login(request, form.get_user())
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:134:def logout_then_login(request, login_url=None, extra_context=None):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:138:    if not login_url:
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:139:        login_url = settings.LOGIN_URL
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:140:    login_url = resolve_url(login_url)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:141:    return logout(request, login_url, extra_context=extra_context)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:144:def redirect_to_login(next, login_url=None,
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:147:    Redirects the user to the login page, passing the given 'next' page
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:149:    resolved_url = resolve_url(login_url or settings.LOGIN_URL)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:151:    login_url_parts = list(urlparse(resolved_url))
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:153:        querystring = QueryDict(login_url_parts[4], mutable=True)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:155:        login_url_parts[4] = querystring.urlencode(safe='/')
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:157:    return HttpResponseRedirect(urlunparse(login_url_parts))
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:289:        'login_url': resolve_url(settings.LOGIN_URL),
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:300:@login_required
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/views.py:333:@login_required
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__init__.py:12:from .signals import user_logged_in, user_logged_out, user_login_failed
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__init__.py:46:    Not comprehensive - intended for user_login_failed signal
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__init__.py:85:    user_login_failed.send(sender=__name__,
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__init__.py:89:def login(request, user):
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/admin.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/base_user.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/decorators.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/forms.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/hashers.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/middleware.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/mixins.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/models.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/signals.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/tokens.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/urls.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/views.cpython-37.pyc matches
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/auth/__pycache__/__init__.cpython-37.pyc matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/flatpages/views.py:56:    # logged in, redirect to the login page.
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/flatpages/views.py:58:        from django.contrib.auth.views import redirect_to_login
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/flatpages/views.py:59:        return redirect_to_login(request.path)
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/contrib/flatpages/__pycache__/views.cpython-37.pyc matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/core/mail/backends/smtp.py:67:                self.connection.login(self.username, self.password)
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/core/mail/backends/__pycache__/smtp.cpython-37.pyc matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/middleware/csrf.py:61:    Changes the CSRF token in use for a request - should be done on login
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/middleware/csrf.py:193:                # and in this way we can avoid all CSRF attacks, including login
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/middleware/__pycache__/csrf.cpython-37.pyc matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/test/client.py:587:    def login(self, **credentials):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/test/client.py:591:        Returns True if login is possible; False if the provided credentials
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/test/client.py:599:            self._login(user)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/test/client.py:604:    def force_login(self, user, backend=None):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/test/client.py:608:        self._login(user)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/test/client.py:610:    def _login(self, user):
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/test/client.py:611:        from django.contrib.auth import login
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/test/client.py:614:        # Create a fake request to store login details.
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/test/client.py:621:        login(request, user)
+Binary file C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/django/test/__pycache__/client.cpython-37.pyc matches
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/Django-1.9.6.dist-info/RECORD:883:django/contrib/admin/static/admin/css/login.css,sha256=lHpzTw50VkxttDANxGiCnANx46B8HaROciU_sRHbTRs,1203
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/Django-1.9.6.dist-info/RECORD:955:django/contrib/admin/templates/admin/login.html,sha256=CJTUK6f_CmkDvxZLAIlUk_YunbUcOqw9gz7PiK0G7zg,2011
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/Django-1.9.6.dist-info/RECORD:1404:django/contrib/auth/migrations/0005_alter_user_last_login_null.py,sha256=ZPbywvnQv2LjPrkYgTbXAgAXsRTiT_SU9BIyHQlOc2U,446
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/Django-1.9.6.dist-info/RECORD:1412:django/contrib/auth/migrations/__pycache__/0005_alter_user_last_login_null.cpython-37.pyc,,
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pip/_vendor/appdirs.py:66:            sync'd on login. See
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pip/_vendor/appdirs.py:187:            sync'd on login. See
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pip/_vendor/appdirs.py:342:            sync'd on login. See
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pip/_vendor/pyparsing.py:4892:              94 | Cosmetic | Spelling error on Login ('log|n')         |         14
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pip/_vendor/pyparsing.py:4917:        ['94', 'Cosmetic', "Spelling error on Login ('log|n')", '14']
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pip/_vendor/pyparsing.py:4919:        - desc: Spelling error on Login ('log|n')
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pip/_vendor/requests/utils.py:212:                # Return with login / password
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pip/_vendor/requests/utils.py:213:                login_i = (0 if _netrc[0] else 1)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pip/_vendor/requests/utils.py:214:                return (_netrc[login_i], _netrc[2])
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pkg_resources/_vendor/appdirs.py:62:            sync'd on login. See
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pkg_resources/_vendor/appdirs.py:183:            sync'd on login. See
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pkg_resources/_vendor/appdirs.py:331:            sync'd on login. See
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py:4047:              94 | Cosmetic | Spelling error on Login ('log|n')         |         14
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py:4070:        ['94', 'Cosmetic', "Spelling error on Login ('log|n')", '14']
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py:4072:        - desc: Spelling error on Login ('log|n')
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_distutils/command/register.py:122:             1. use existing login,
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_distutils/command/register.py:137:        # get the user's login info
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_distutils/command/register.py:142: 1. use your existing login,
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_distutils/command/register.py:170:            # possibly save the login
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_distutils/command/register.py:177:                    self.announce(('I can store your PyPI login so future '
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_distutils/command/register.py:179:                    self.announce('(the login will be stored in %s)' % \
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_distutils/command/register.py:183:                        choice = input('Save your login (y/N)?')
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_distutils/config.py:52:            self.announce('Using PyPI login from %s' % rc)
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_distutils/config.py:97:            elif 'server-login' in sections:
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_distutils/config.py:99:                server = 'server-login'
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_vendor/pyparsing.py:4047:              94 | Cosmetic | Spelling error on Login ('log|n')         |         14
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_vendor/pyparsing.py:4070:        ['94', 'Cosmetic', "Spelling error on Login ('log|n')", '14']
+C:\Users\asids\PycharmProjects\lets-be-bad-guys/venv/Lib/site-packages/setuptools/_vendor/pyparsing.py:4072:        - desc: Spelling error on Login ('log|n')
